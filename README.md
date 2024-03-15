@@ -19,7 +19,6 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-All you need is a AWS account.Building these services and deploying is relatively easy.Ping me if you need help.
 * AWS account 
 
 
